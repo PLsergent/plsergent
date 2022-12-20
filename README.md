@@ -34,7 +34,7 @@
 
 |                                                                                                                                                                                                 |                                                                                                                                                                                  
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=plsergent&theme=rogue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
+| [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=plsergent&theme=rogue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
 ![](https://hit.yhype.me/github/profile?user_id=27278774)
 
 Thanks to @Zakichanu for the inspo
