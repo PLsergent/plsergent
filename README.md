@@ -1,9 +1,9 @@
+<a href="https://app.daily.dev/holapapalouis"><img align="right" src="https://api.daily.dev/devcards/816d68ef2a504662b23476d987f5c53f.png?r=n8c" width="350" alt="PL's Dev Card"/></a>
+
 ### Hi there 👋 I'm [Pierre-Louis Sergent](https://plsergent.xyz)
 
 *Since 03/11/2022* :
   
-<p><img align="right" src="https://user-images.githubusercontent.com/27278774/199810462-29b96910-0118-4212-a09c-fce3caca9899.gif" /></p>
-
 ![](https://komarev.com/ghpvc/?username=plsergent&style=for-the-badge&color=blueviolet)
 
 <br>
@@ -13,6 +13,8 @@
 - 💬 Personal website: **https://plsergent.xyz**
 - Looking for a 3+ months **internship** from **March 2023**
 
+<p><img align="right" src="https://user-images.githubusercontent.com/27278774/199810462-29b96910-0118-4212-a09c-fce3caca9899.gif" width="370" /></p>
+
 <br>
 
 <p align="left">
@@ -21,7 +23,8 @@
 </p>
 
 <br>
-<hr>
+<br>
+<br>
 <br>
 
 ## Advanced stats :stars:
