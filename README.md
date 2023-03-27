@@ -8,8 +8,8 @@
 
 <br>
 
-- 👷‍♂️ I’m currently working in **Orange** (fr)
-- 🎓 I’m currently studying in **Efrei Paris** for an engineering degree.
+- 👷‍♂️ Trainee **@Elca** (ch)
+- 🎓 Studying **@Efrei Paris** for an engineering degree.
 - 💬 Personal website: **https://plsergent.xyz**
 - Looking for a 3+ months **internship** from **March 2023**
 
