@@ -11,7 +11,6 @@
 - 👷‍♂️ Trainee **@Elca** (ch)
 - 🎓 Studying **@Efrei Paris** for an engineering degree.
 - 💬 Personal website: **https://plsergent.xyz**
-- Looking for a 3+ months **internship** from **March 2023**
 
 <p><img align="right" src="https://user-images.githubusercontent.com/27278774/199810462-29b96910-0118-4212-a09c-fce3caca9899.gif" width="370" /></p>
 
