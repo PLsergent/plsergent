@@ -28,7 +28,7 @@
 
 ## Advanced stats :stars:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=plsergent&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=plsergent&theme=dracula&title=MultiLanguage,Repositories,Issues,Commits,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 |                                                                                                           |                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@
 
 |                                                                                                                                                                                                 |                                                                                                                                                                                  
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=plsergent&theme=rogue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
+| [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=plsergent&theme=rogue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
 ![](https://hit.yhype.me/github/profile?user_id=27278774)
 
 Thanks to @Zakichanu for the inspo
