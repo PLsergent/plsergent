@@ -8,7 +8,7 @@
 
 <br>
 
-- 👷‍♂️ DevOps / Cloud Engineer **@Elca** (ch)
+- 👷‍♂️ DevOps / Cloud Engineer **@ELCA** (ch)
 - 🎓 Studying **@Efrei Paris** for an engineering degree.
 - 💬 Personal website: **https://plsergent.xyz**
 
